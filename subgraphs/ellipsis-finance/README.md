@@ -13,7 +13,7 @@ Sum across all Pools:
 
 Sum across all Pools:
 
-`Insert Calculation`
+y=mx+b
 
 <Add notes to consider if any - delete if none>
 
